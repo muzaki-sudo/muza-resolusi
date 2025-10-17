@@ -1,4 +1,6 @@
 MUZA RESOLUSI 
 - Beli course PZN
 - Menyelesaikan materi JavaScript by PZN
+- Buat satu project real world.
+- Mulai cari teman coding
 

@@ -3,6 +3,5 @@ RENCANA BELAJAR
 - Belajar Git & Github
   - By  WPU
 - Belajar JS
-  - By PZN
-- Belajar Fundamental Struktur Data
+  - By Dea Afrizal
 - Buat Project

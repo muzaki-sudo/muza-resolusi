@@ -1,5 +1,7 @@
 RENCANA BELAJAR 
 
 - Belajar Git & Github
+  - By  WPU
 - Belajar JS
+  - By PZN
 - Buat Project
